@@ -1,6 +1,8 @@
 # Banking-System
 Bank Management System Project using Object Oriented Programming in C++.
+
 This is a Banking Management System built using the concepts of Object Oriented Programming & Data Structures.
+
 The following programming templates have been used to create the program: • Classes • Constant Functions/Variables • Opeartor Overloading • File Handling • Conditional Statements/Selection Statements • STL
 
 There are 7 main objectives of the program:
